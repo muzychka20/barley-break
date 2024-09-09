@@ -4,7 +4,7 @@
 
 The Sliding Puzzle Game is a classic sliding puzzle where the player rearranges tiles to achieve a specific order. The puzzle is represented as a grid with numbered tiles and one empty space. The objective is to slide tiles into the empty space to solve the puzzle, which means arranging the tiles in numerical order from top-left to bottom-right.
 
-![Game Screenshot](./images/screen.png)
+![Game Screenshot](./images/photo.png)
 
 ## Features
 
